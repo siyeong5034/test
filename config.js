@@ -18,7 +18,7 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "신랑",
+    name: "박시영",
     father: "아버지",
     mother: "어머니",
     fatherDeceased: false,
@@ -26,7 +26,7 @@ const CONFIG = {
   },
 
   bride: {
-    name: "신부",
+    name: "손지영",
     father: "아버지",
     mother: "어머니",
     fatherDeceased: false,
@@ -34,8 +34,8 @@ const CONFIG = {
   },
 
   wedding: {
-    date: "2026-05-09",
-    time: "13:00",
+    date: "2026-08-15",
+    time: "16:20",
     venue: "예식장 이름",
     hall: "그랜드홀 5층",
     address: "서울특별시 강남구 테헤란로 123",
